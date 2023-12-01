@@ -16,7 +16,7 @@ Key Features:
 
 Data Source: https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset/
 
-Dashboard Link:https://public.tableau.com/app/profile/charanjit.kaur4974/viz/RetailSalesandcustomerinsightsdashboard/Dashboard1
+Dashboard Link: https://public.tableau.com/app/profile/charanjit.kaur4974/viz/RetailSalesandcustomerinsightsdashboard/Dashboard1
 
 
 
